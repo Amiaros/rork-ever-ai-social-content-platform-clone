@@ -101,3 +101,4 @@ Developed by **EverAi Amir Gharegozlou**. For inquiries or support, please conta
 ---
 
 Thank you for using Rork EverAI Social Content Platform! We hope this tool enhances your social media content creation experience.
+# EverAi
