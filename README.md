@@ -1,12 +1,12 @@
-# Rork EverAI Social Content Platform
+# EverAI Social Content Platform
 
-Welcome to **Rork EverAI Social Content Platform**, an innovative mobile application designed to revolutionize content creation for social media using AI. This app allows users to generate, analyze, and publish content across multiple social platforms with ease. Built with React Native and Expo, it supports cross-platform usage on iOS, Android, and Web.
+Welcome to ** EverAI Social Content Platform**, an innovative mobile application designed to revolutionize content creation for social media using AI. This app allows users to generate, analyze, and publish content across multiple social platforms with ease. Built with React Native and Expo, it supports cross-platform usage on iOS, Android, and Web.
 
 Developed by **EverAi Amir Gharegozlou**.
 
 ## Overview
 
-Rork EverAI is a powerful tool for content creators, marketers, and social media enthusiasts. Leveraging AI technology, it helps users create tailored content for various social media platforms, track analytics, and manage their online presence efficiently. With a sleek and modern UI inspired by leading apps like iOS, Instagram, and Airbnb, the app ensures a delightful user experience across different devices.
+EverAI is a powerful tool for content creators, marketers, and social media enthusiasts. Leveraging AI technology, it helps users create tailored content for various social media platforms, track analytics, and manage their online presence efficiently. With a sleek and modern UI inspired by leading apps like iOS, Instagram, and Airbnb, the app ensures a delightful user experience across different devices.
 
 ## Features
 
@@ -83,7 +83,7 @@ Here's a brief overview of the key directories and files:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the development of Rork EverAI Social Content Platform, please follow these steps:
+Contributions are welcome! If you'd like to contribute to the development of EverAI Social Content Platform, please follow these steps:
 
 1. Fork the repository (if applicable).
 2. Create a new branch for your feature or bug fix.
